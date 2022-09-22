@@ -7,4 +7,4 @@ CRUD para frases
 (X) | DELETE /phrase/5 - Deletar uma frase
 
 CRUD extra
-( ) | GET /phrase/random - Pegar um frase aleatoriamente
+(X) | GET /phrase/random - Pegar um frase aleatoriamente

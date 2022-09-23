@@ -2,17 +2,17 @@
 Back-end desenvolvido para criar, ler, editar e deletar frases!
 
 <b>Banco de dados</b>: MySQL<br />
-Cliente: DBeaver 22.2.0<br />
+<b>Cliente</b>: DBeaver 22.2.0<br />
 
 Rotas:
-POST /phrases - Inseri uma nova frase com o body (author, txt).<br />
-GET /phrases - Retorna todas às frases inseridas na db.<br />
-GET /phrases/:id - Retorna a frase selecionada através do ID enviado.<br />
-PUT /phrase/:id - Realiza o update em uma frase através do ID enviado.<br />
-DEL /phrase/:id - Deleta a frase que o ID foi enviado.<br />
+POST <b>/phrases</b> - Inseri uma nova frase com o body (author, txt).<br />
+GET <b>/phrases</b> - Retorna todas às frases inseridas na db.<br />
+GET <b>/phrases/:id</b> - Retorna a frase selecionada através do ID enviado.<br />
+PUT <b>/phrase/:id</b> - Realiza o update em uma frase através do ID enviado.<br />
+DEL <b>/phrase/:id</b> - Deleta a frase que o ID foi enviado.<br />
 
 Extra:
-GET /phrase/random - Retorna uma frase aleatória.
+GET <b>/phrase/random</b> - Retorna uma frase aleatória.
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`

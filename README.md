@@ -1,7 +1,7 @@
 # NODE-API CRUD COMPLET
 Back-end desenvolvido para criar, ler, editar e deletar frases!
 
-Banco de dados: MySQL<br />
+<b>Banco de dados</b>: MySQL<br />
 Cliente: DBeaver 22.2.0<br />
 
 Rotas:

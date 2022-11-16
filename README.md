@@ -1,4 +1,4 @@
-# NODE-API CRUD COMPLET
+# NODE-API CRUD COMPLETE
 Back-end desenvolvido para criar, ler, editar e deletar frases!
 
 <b>Banco de dados</b>: MySQL<br />
